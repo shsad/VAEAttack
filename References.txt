@@ -1,0 +1,8 @@
+References:
+
+0. Coding: https://github.com/Harvard-IACS/2019-computefest/blob/master/Wednesday/auto_encoder/VAE_Solutions.ipynb
+1. Comprehensive Introduction to Autoencoders: https://towardsdatascience.com/generating-images-with-autoencoders-77fd3a8dd368
+2. Intuitively Understanding Variational Autoencoders: https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf
+3. Introduction to Turing Learning and GANs: https://towardsdatascience.com/comprehensive-introduction-to-turing-learning-and-gans-part-1-81f6d02e644d
+4. Advanced Topics in GANs: https://towardsdatascience.com/comprehensive-introduction-to-turing-learning-and-gans-part-2-fd8e4a70775
+5. GANs vs. Autoencoders: Comparison of Deep Generative Models: https://towardsdatascience.com/gans-vs-autoencoders-comparison-of-deep-generative-models-985cf15936ea
